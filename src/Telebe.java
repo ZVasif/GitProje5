@@ -5,5 +5,8 @@ public class Telebe {
 
         System.out.println("Salam Dunya 2");
         System.out.println("Salam Dunya 3");
+
+
+        System.out.println("deyisdim");
     }
 }
