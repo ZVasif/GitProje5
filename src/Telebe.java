@@ -8,5 +8,7 @@ public class Telebe {
 
 
         System.out.println("deyisdim");
+
+        System.out.println("commit etmedim");
     }
 }
